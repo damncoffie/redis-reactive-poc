@@ -1,0 +1,4 @@
+# Project exclude paths
+/redis-reactive-consumer-poc/target/
+/redis-reactive-model-poc/target/
+/redis-reactive-publisher-poc/target/
